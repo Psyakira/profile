@@ -57,7 +57,7 @@ li {
 }
 
 body{
-  background-color: #4A4C57;
+  background-color: #D8D6D5;
 }
 
 p{
